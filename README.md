@@ -1,15 +1,13 @@
+✝️❤️😃🙏👍
+
+PRAYS GOD JESUS SAVIOR BLESS PROTECT INDONESIA SAFE PEACE FOREVER AMEN HALELUYA
+
+✝️❤️😃🙏👍
+
 https://github.com/user-attachments/assets/c8f3852e-97db-4e59-9207-8040d8c76f92
 
-how to upload video to readme github ?
+( github readme can only upload videos less than 10 mb to issues )
 
-https://github.com/GODJESUSSAVIOR/-PRAYS-GOD-JESUS-SAVIOR-BLESS-PROTECT-INDONESIA-SAFE-PEACE-FOREVER-AMEN-HALELUYA-/blob/main/VID-20250830-WA0001.mp4
-
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
-
-https://github.com/GODJESUSSAVIOR/-PRAYS-GOD-JESUS-SAVIOR-BLESS-PROTECT-INDONESIA-SAFE-PEACE-FOREVER-AMEN-HALELUYA-/blob/main/VID-20250830-WA0001.mp4
-
-[![Watch the video](https://raw.githubusercontent.com/GODJESUSSAVIOR/-PRAYS-GOD-JESUS-SAVIOR-BLESS-PROTECT-INDONESIA-SAFE-PEACE-FOREVER-AMEN-HALELUYA-/main/VID-20250830-WA0001.mp4)](https://raw.githubusercontent.com/GODJESUSSAVIOR/-PRAYS-GOD-JESUS-SAVIOR-BLESS-PROTECT-INDONESIA-SAFE-PEACE-FOREVER-AMEN-HALELUYA-/main/VID-20250830-WA0001.mp4)
-
-
+( github need to make more easier for ordinally people to use github )
 
 # -PRAYS-GOD-JESUS-SAVIOR-BLESS-PROTECT-INDONESIA-SAFE-PEACE-FOREVER-AMEN-HALELUYA-
